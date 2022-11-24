@@ -49,6 +49,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### OUTPUT:
+
   4 dof:
 
 ![output](./fkin%20dof4.PNG) 
