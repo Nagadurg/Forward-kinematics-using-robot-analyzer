@@ -57,11 +57,11 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 4 dof simulation:
 ![output](./4%20dof%20fkin1.PNG)
 
-  6 dof plot:
+  6 dof simulation:
 
 ![output](./6%20dof%20fkin.PNG)
 ![output](./6%20dof%20graph.PNG)
-6 dof simulation:
+6 dof plot:
 ![output](./fkin%20dof%206.PNG)
  
  ### RESULTS :
